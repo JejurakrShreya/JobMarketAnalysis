@@ -1,0 +1,1 @@
+print("Job Market Analysis Project Started!")
